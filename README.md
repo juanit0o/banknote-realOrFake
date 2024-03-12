@@ -23,3 +23,6 @@ This project focuses on parametrizing, fitting, and comparing Naive Bayes and Su
 - **NB.png:** Plot of training and cross-validation errors for Naïve Bayes classifier optimization.
 - **SVM.png:** Plot of training and cross-validation errors for SVM classifier optimization.
 - **Questions:** Answer a set of questions about the assignment (choose either English or Portuguese version from the provided files).
+
+## Contributors
+- João Funenga & André Costa
